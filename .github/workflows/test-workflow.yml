@@ -47,3 +47,4 @@ jobs:
         with:
           push: true
           repository: yuliyan05/my-test-nginx-image
+          tags: nginx:latest
