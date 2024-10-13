@@ -46,5 +46,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          repository: yuliyan05/my-test-nginx-image
-          tags: nginx:latest
+          tags: yuliyan05/my-test-nginx-image:latest
